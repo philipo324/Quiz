@@ -1,0 +1,26 @@
+.class{
+    font-family: Arial;
+}
+
+#body-container{
+    width: 960px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+body{
+    background:url("paisley.png");
+}
+img{
+    width:100px;
+}
+#CSS{
+    float: left;
+}
+.font {
+    color:blue;
+}
+.ty {
+    color:blue;
+}
